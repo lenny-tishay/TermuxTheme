@@ -6,13 +6,13 @@
 clear
 sleep 0.5
 echo ""
-echo "  [VISIT https://bajetech.org TO LEARN MORE]"|lolcat
+echo "  [Lenny Tishay]"|lolcat
 echo "    _____   _____ _   _ _____ __  __ _____"|lolcat
 echo "   |_   _| |_   _| | | | ____|  \/  | ____|"|lolcat
 echo "     | |_____| | | |_| |  _| | |\/| |  _|"  |lolcat
 echo "     | |_____| | |  _  | |___| |  | | |___" |lolcat
 echo "     |_|     |_| |_| |_|_____|_|  |_|_____| V1.5"|lolcat
-echo "     [CREATED BY: AliByte01]"|lolcat
+echo "     [LEON]"|lolcat
 sleep 0.5
 echo ""
 echo "You Are About To Switch Termux To Colorfull Mode."|lolcat
